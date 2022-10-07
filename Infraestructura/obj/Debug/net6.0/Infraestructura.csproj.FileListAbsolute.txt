@@ -1,0 +1,17 @@
+c:\Desarrollos\appEmergia\emergiaBackend\Infraestructura\bin\Debug\net6.0\Infraestructura.deps.json
+c:\Desarrollos\appEmergia\emergiaBackend\Infraestructura\bin\Debug\net6.0\Infraestructura.dll
+c:\Desarrollos\appEmergia\emergiaBackend\Infraestructura\bin\Debug\net6.0\Infraestructura.pdb
+c:\Desarrollos\appEmergia\emergiaBackend\Infraestructura\obj\Debug\net6.0\Infraestructura.csproj.AssemblyReference.cache
+c:\Desarrollos\appEmergia\emergiaBackend\Infraestructura\obj\Debug\net6.0\Infraestructura.GeneratedMSBuildEditorConfig.editorconfig
+c:\Desarrollos\appEmergia\emergiaBackend\Infraestructura\obj\Debug\net6.0\Infraestructura.AssemblyInfoInputs.cache
+c:\Desarrollos\appEmergia\emergiaBackend\Infraestructura\obj\Debug\net6.0\Infraestructura.AssemblyInfo.cs
+c:\Desarrollos\appEmergia\emergiaBackend\Infraestructura\obj\Debug\net6.0\Infraestructura.csproj.CoreCompileInputs.cache
+c:\Desarrollos\appEmergia\emergiaBackend\Infraestructura\obj\Debug\net6.0\Infraestructura.dll
+c:\Desarrollos\appEmergia\emergiaBackend\Infraestructura\obj\Debug\net6.0\refint\Infraestructura.dll
+c:\Desarrollos\appEmergia\emergiaBackend\Infraestructura\obj\Debug\net6.0\Infraestructura.pdb
+c:\Desarrollos\appEmergia\emergiaBackend\Infraestructura\obj\Debug\net6.0\ref\Infraestructura.dll
+c:\Desarrollos\appEmergia\emergiaBackend\Infraestructura\bin\Debug\net6.0\Core.dll
+c:\Desarrollos\appEmergia\emergiaBackend\Infraestructura\bin\Debug\net6.0\Core.pdb
+c:\Desarrollos\appEmergia\emergiaBackend\Infraestructura\obj\Debug\net6.0\Infraestructura.csproj.CopyComplete
+C:\Desarrollos\appEmergia\emergiaBackend\Infraestructura\bin\Debug\net6.0\Infraestructura.runtimeconfig.json
+C:\Desarrollos\appEmergia\emergiaBackend\Infraestructura\obj\Debug\net6.0\Infraestructura.genruntimeconfig.cache

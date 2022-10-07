@@ -1,0 +1,4 @@
+﻿dotnet ef migrations add MigracionInicial -p Infraestructura -s API -o Data/Migrations
+
+
+dotnet ef database update -p Infraestructura -s API
